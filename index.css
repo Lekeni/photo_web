@@ -39,6 +39,7 @@ body{
   }
   body h2 {
       font-family: cursive;
+      font-size: 2em;
   }
   .container .photo-box .photo-pics{
     display: flex;
