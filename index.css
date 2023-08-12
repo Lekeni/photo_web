@@ -51,11 +51,12 @@
   }
   form{
       background-color: dodgerblue;
-      color: #162938;
+      color: #000000;
       height: 30px;
       font-family: Serif;
       align-items: center;
       border-radius: 2px;
+      border: 2px solid black;
       padding: 10px;
   }
   form input {
