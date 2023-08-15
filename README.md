@@ -22,11 +22,11 @@ To successfully view the website, you must open the link on a Macbook Windows or
 
 On visiting the website, the landing page will be as shown in the images below:
 
-<img src="S2.jpg">
+<img src="S2.JPG">
 
-<img src="S1.jpg">
+<img src="S1.JPG">
 
-<img src="S3.jpg">
+<img src="S3.JPG">
 
 # Author
 
